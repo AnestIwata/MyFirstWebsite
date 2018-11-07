@@ -1,4 +1,4 @@
-                                                                              Welcome! 
+                                                           Welcome! 
 
   My name is Pawel Pelech and I have created this website to showcase my work in fields of amateur photography and filmmaking. Most of my 
   work was done as a pure hobby, however I do have some succesful commericial work under my belt. There is information about me, who I am and 
