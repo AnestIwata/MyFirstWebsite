@@ -1,12 +1,15 @@
    
-##                                                             UX
+## UX
 
-##                                                          Welcome! 
+##                                 Welcome! 
 
   My name is **Pawel Pelech** and I have created this website to showcase my work in fields of amateur photography and film-making. Most of my 
   work was done as a pure hobby, however I do have some successful commercial work under my belt. There is information about me, who I am and 
   what I do. In gear  page section all the aspects of my equipment are covered. Lastly for potential customers contact page is being created. 
   A links to social media are provided for further possibility of cooperation.
+
+#### Deployed page can be found [here]:
+  https://anestiwata.github.io/MyFirstWebsite/
 
 ##  Technologies used:
   
@@ -16,14 +19,14 @@
   4. **JavaScrip**
 
 ##  Files list:
-  *index.html
-  *photos.html
-  *videos.html
-  *gear.html
-  *contact.html
-  *style.css
-  *assets folder
-  *README.md
+  1.index.html
+  2.photos.html
+  3.videos.html
+  4.gear.html
+  5.contact.html
+  6.style.css
+  7.assets folder
+  8.README.md
   
 ## Testing:
 
@@ -35,7 +38,7 @@
 
   I have tried to implement **Fancybox** framework in this project. The purpose of the feature was supposed to be simple. In picture gallery
   every photograph clicked should go to full screen mode. Unfortunately that feature didn't work correctly. Photo when clicked was going full 
-  screen, but after closing it was disapering from gallery. This issue was addressed my me to Code Institute support. 
+  screen, but after closing it was disapering from gallery. This issue was addressed by me to Code Institute support. 
 
   The site is fully responsive in different devices. All the layout stays clean and readable via all assortment of view ports.
   One of most important features is a navbar menu going to hamburger button on smaller devices. When clicked it opens up buttons to
