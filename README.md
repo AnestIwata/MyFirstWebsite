@@ -16,14 +16,14 @@
   4. **JavaScrip**
 
 ##  Files list:
-  *index.html*
-  *photos.html*
-  *videos.html*
-  *gear.html*
-  *contact.html*
-  *style.css*
-  *assets folder*
-  *README.md*
+  *index.html
+  *photos.html
+  *videos.html
+  *gear.html
+  *contact.html
+  *style.css
+  *assets folder
+  *README.md
   
 ## Testing:
 
